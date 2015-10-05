@@ -1,0 +1,4 @@
+C:\Users\EAHS CS\Desktop\CS_Chapter2\CS_Chapter2\EggsInteractive\bin\Debug\EggsInteractive.exe
+C:\Users\EAHS CS\Desktop\CS_Chapter2\CS_Chapter2\EggsInteractive\bin\Debug\EggsInteractive.pdb
+C:\Users\EAHS CS\Desktop\CS_Chapter2\CS_Chapter2\EggsInteractive\obj\x86\Debug\EggsInteractive.exe
+C:\Users\EAHS CS\Desktop\CS_Chapter2\CS_Chapter2\EggsInteractive\obj\x86\Debug\EggsInteractive.pdb
