@@ -9,6 +9,7 @@ namespace HoursAndMinutes
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
