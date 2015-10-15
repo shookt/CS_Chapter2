@@ -6,3 +6,7 @@ C:\Users\EAHS CS\Documents\GitHub\CS_Chapter2\CS_Chapter2\HoursAndMinutes\bin\De
 C:\Users\EAHS CS\Documents\GitHub\CS_Chapter2\CS_Chapter2\HoursAndMinutes\bin\Debug\HoursAndMinutes.pdb
 C:\Users\EAHS CS\Documents\GitHub\CS_Chapter2\CS_Chapter2\HoursAndMinutes\obj\x86\Debug\HoursAndMinutes.exe
 C:\Users\EAHS CS\Documents\GitHub\CS_Chapter2\CS_Chapter2\HoursAndMinutes\obj\x86\Debug\HoursAndMinutes.pdb
+C:\Users\EAHSCS\Desktop\CS_Chapter2\CS_Chapter2\HoursAndMinutes\bin\Debug\HoursAndMinutes.exe
+C:\Users\EAHSCS\Desktop\CS_Chapter2\CS_Chapter2\HoursAndMinutes\bin\Debug\HoursAndMinutes.pdb
+C:\Users\EAHSCS\Desktop\CS_Chapter2\CS_Chapter2\HoursAndMinutes\obj\x86\Debug\HoursAndMinutes.exe
+C:\Users\EAHSCS\Desktop\CS_Chapter2\CS_Chapter2\HoursAndMinutes\obj\x86\Debug\HoursAndMinutes.pdb

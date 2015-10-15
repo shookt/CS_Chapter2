@@ -6,3 +6,7 @@ C:\Users\EAHS CS\Documents\GitHub\CS_Chapter2\CS_Chapter2\DoubleDecimalTest\obj\
 C:\Users\EAHS CS\Documents\GitHub\CS_Chapter2\CS_Chapter2\DoubleDecimalTest\obj\x86\Debug\DoubleDecimalTest.pdb
 C:\Users\EAHS CS\Documents\GitHub\CS_Chapter2\CS_Chapter2\DoubleDecimalTest\bin\Debug\DoubleDecimalTest.exe
 C:\Users\EAHS CS\Documents\GitHub\CS_Chapter2\CS_Chapter2\DoubleDecimalTest\bin\Debug\DoubleDecimalTest.pdb
+C:\Users\EAHSCS\Desktop\CS_Chapter2\CS_Chapter2\DoubleDecimalTest\bin\Debug\DoubleDecimalTest.exe
+C:\Users\EAHSCS\Desktop\CS_Chapter2\CS_Chapter2\DoubleDecimalTest\bin\Debug\DoubleDecimalTest.pdb
+C:\Users\EAHSCS\Desktop\CS_Chapter2\CS_Chapter2\DoubleDecimalTest\obj\x86\Debug\DoubleDecimalTest.exe
+C:\Users\EAHSCS\Desktop\CS_Chapter2\CS_Chapter2\DoubleDecimalTest\obj\x86\Debug\DoubleDecimalTest.pdb
